@@ -137,10 +137,10 @@
                     dengan membatasi akses kendaraan dan orang yang tidak dikenal pada malam hari.
                     Dengan adanya kebijakan penutupan portal jalan tersebut, seringkali penghuni atau pengunjung Pogung
                     membutuhkan informasi mengenai rute alternatif. Untuk itu, pembuatan WebGIS (Sistem Informasi Geografis
-                    berbasis web) Labirin Pogung sangat berguna.</h3>
+                    berbasis web) Pogung Berportal sangat berguna.</h3>
                             </div>
         <div>
-            <h2>Tujuan WebGIS Labirin Pogung</h2>
+            <h2>Tujuan WebGIS Pogung Berportal</h2>
             <ol>
                 <li><strong>Informasi jalan alternatif</strong></li>
                     <p>Membantu penghuni dan pengunjung menemukan rute alternatif ketika portal jalan ditutup. Ini sangat bermanfaat bagi mereka yang harus keluar atau masuk kawasan Pogung setelah jam 10 malam. </p>
