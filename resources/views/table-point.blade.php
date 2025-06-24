@@ -1,7 +1,7 @@
 @extends('layouts.tamplate')
 
 @section('content')
-    <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="container d-flex justify-content-center" style="height: 100vh; padding-top: 20px;"> <!-- Atur padding-top untuk posisi atas -->
 
         <div class="card shadow-sm mb-4" style="width: 100%; max-width: 95%;"> <!-- Maksimalkan lebar card dengan max-width -->
 
@@ -59,12 +59,12 @@
 @section('styles')
     <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.bootstrap5.css">
     <style>
-        /* Menggunakan Flexbox untuk memposisikan tabel di tengah halaman */
+        /* Menggunakan Flexbox untuk memposisikan tabel di tengah halaman secara horizontal */
         .container {
             display: flex;
             justify-content: center; /* Mengatur tabel agar berada di tengah secara horizontal */
-            align-items: center;     /* Mengatur tabel agar berada di tengah secara vertikal */
-            height: 100vh;           /* Menyesuaikan tinggi halaman agar tabel berada di tengah secara vertikal */
+            align-items: flex-start; /* Menempatkan tabel di bagian atas */
+            height: 100vh;           /* Menyesuaikan tinggi halaman */
             padding-left: 20px;
             padding-right: 20px;
         }

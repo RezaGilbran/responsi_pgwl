@@ -113,7 +113,7 @@
     <header class="masthead">
         <div class="container">
 
-            <div class="masthead-heading text-uppercase">Labirin Pogung</div>
+            <div class="masthead-heading text-uppercase">Pogung Berportal</div>
             <div class="masthead-subheading">Pemberian informasi jalan alternatif ketika portal di Pogung ditutup</div>
             <a class="btn btn-warning btn-xl text-uppercase" href="{{ route('map-public') }}">Map</a>
         </div>
@@ -125,16 +125,12 @@
         <div class="container">
             <div class="text-center">
                 <h1 class="section-heading text-uppercase">Tentang</h1>
-                <h2 class="section-heading text-uppercase">Labirin Pogung</h2>
-                <h3 class="section-subheading text-muted">Pogung adalah sebuah kawasan yang terletak di dekat Universitas
-                    Gadjah Mada (UGM) di Yogyakarta, Indonesia. Kawasan ini dikenal sebagai salah satu daerah yang ramai dan
-                    hidup, terutama karena keberadaannya yang sangat dekat dengan kampus UGM, universitas terbesar dan
-                    tertua di Indonesia. Pogung menjadi tempat tinggal favorit bagi banyak mahasiswa UGM karena lokasinya
-                    yang strategis. Banyak kos-kosan dan asrama mahasiswa yang tersebar di seluruh kawasan ini, menawarkan
-                    berbagai pilihan tempat tinggal mulai dari yang sederhana hingga yang lebih eksklusif. Meskipun Pogung
-                    merupakan daerah yang ramai, lingkungan di sini relatif aman dan nyaman. Banyak jalan-jalan kecil yang
-                    memungkinkan penghuni untuk berjalan kaki atau bersepeda dengan tenang. Kawasan ini juga memiliki
-                    sejumlah ruang hijau yang bisa digunakan untuk bersantai atau berolahraga.</h3>
+                <h2 class="section-heading text-uppercase">Pogung Berportal</h2>
+                <h3 class="section-subheading text-muted">Pogung adalah sebuah kawasan yang terletak dekat dengan Universitas Gadjah Mada (UGM) di Yogyakarta, Indonesia dan dikenal sebagai salah satu daerah yang sangat hidup dan dinamis.
+                    Lokasinya yang sangat strategis, hanya beberapa langkah dari kampus UGM menjadikan Pogung sebagai tempat tinggal yang populer terutama di kalangan mahasiswa.
+                    UGM yang merupakan universitas terbesar dan tertua di Indonesia menjadikan kawasan ini sangat menarik bagi mereka yang ingin tinggal dekat dengan pusat pendidikan ternama tersebut.
+                    Kawasan Pogung dipenuhi dengan berbagai pilihan akomodasi, mulai dari kos-kosan sederhana hingga asrama dan tempat tinggal eksklusif yang menawarkan kenyamanan lebih.
+                    Kehidupan di Pogung sangat dipengaruhi oleh keberadaan mahasiswa, yang membuat suasana menjadi ramai namun tetap terjaga ketertiban dan keamanannya.</h3>
                 <h3 class="section-subheading text-muted">Pogung memang dikenal sebagai kawasan yang aman dan nyaman untuk ditinggali, terutama bagi mahasiswa.
                     Salah satu fitur keamanan yang diterapkan di daerah ini adalah adanya portal jalan di setiap lorong atau
                     jalan kecil. Portal ini biasanya ditutup pada jam 10 malam, yang membantu menjaga keamanan lingkungan
