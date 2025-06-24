@@ -18,22 +18,22 @@
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Trisna</td>
+                        <td>Reza</td>
                         <td>B</td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Enjel</td>
+                        <td>Risma</td>
                         <td>B</td>
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td>Faiz</td>
+                        <td>Hans</td>
                         <td>B</td>
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td>Najeb</td>
+                        <td>Irfan</td>
                         <td>B</td>
                     </tr>
                 </tbody>

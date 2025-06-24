@@ -14,6 +14,8 @@
             width: 100%;
             margin: 0;
         }
+
+
     </style>
 @endsection
 
@@ -110,6 +112,7 @@
     <!-- Tampilan header-->
     <header class="masthead">
         <div class="container">
+
             <div class="masthead-heading text-uppercase">Labirin Pogung</div>
             <div class="masthead-subheading">Pemberian informasi jalan alternatif ketika portal di Pogung ditutup</div>
             <a class="btn btn-warning btn-xl text-uppercase" href="{{ route('map-public') }}">Map</a>
@@ -211,7 +214,7 @@
             <div class="row">
                 <div class="align-items-center">
                     <div class="team-member text-center">
-                        <img class="mx-auto rounded-circle img-fluid" src="/storage/images/profil.jpeg"
+                        <img class="mx-auto rounded-circle img-fluid" src="/storage/images/1750508666_polyline.png"
                             alt="Trisna Diah Ayu Wulandari" style="width: 200px; height: 200px;" />
                         <h4>Trisna Diah Ayu Wulandari</h4>
                         <p class="text-muted">22/505883/SV/21979</p>

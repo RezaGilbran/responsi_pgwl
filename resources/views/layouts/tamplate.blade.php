@@ -28,19 +28,20 @@
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
-
+ @yield('styles')
 <style>
     header.masthead {
-        padding-top: 10.5rem;
-        padding-bottom: 6rem;
-        text-align: center;
-        color: #fff;
-        background-image: url("storage/images/pogung.jpg");
-        background-repeat: no-repeat;
-        background-attachment: scroll;
-        background-position: center center;
-        background-size: cover;
-    }
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("{{ asset('storage/images/pogung.jpeg') }}"); /* Gunakan asset() untuk path gambar */
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
 
     @media (min-width: 768px) {
         header.masthead {
