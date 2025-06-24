@@ -19,7 +19,7 @@ Pogung memang dikenal sebagai kawasan yang aman dan nyaman untuk ditinggali, ter
 
   
 
->![Halaman Utama](/pogung.jpeg)
+>![Halaman Utama](/Pogungg.PNG)
 >**Screenshot Website**
 >![Peta Interaktif](/image-1.png)
 
