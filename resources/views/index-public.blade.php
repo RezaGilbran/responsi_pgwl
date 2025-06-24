@@ -22,7 +22,7 @@
 @section('content')
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand" href="#page-top"><i class="fa-solid fa-map"></i> Labirin Pogung</a>
+            <a class="navbar-brand" href="#page-top"><i class="fa-solid fa-map"></i> Pogung Berportal</a>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
