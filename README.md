@@ -19,8 +19,8 @@ Pogung memang dikenal sebagai kawasan yang aman dan nyaman untuk ditinggali, ter
 1. Google maps tampilan Daerah Pogung
 
   
->**Screenshot Website**
->![Halaman Utama](/pogung.jpeg)
 
+>![Halaman Utama](/pogung.jpeg)
+>**Screenshot Website**
 >![Peta Interaktif](/image-1.png)
 
