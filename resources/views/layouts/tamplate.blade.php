@@ -271,10 +271,10 @@
                 </div>
                 <div class="modal-body">
                     <p>
-                    <h5>Labirin Pogung</h5>
+                    <h5>Pogung Berportal</h5>
                     </p>
                     <p>
-                        WebGIS Labirin Pogung merupakan webgis yang membantu penghuni dan pengunjung kawasan Pogung dapat lebih
+                        WebGIS Pogung Berportal merupakan webgis yang membantu penghuni dan pengunjung kawasan Pogung dapat lebih
                         mudah dan aman dalam melakukan mobilitas, khususnya ketika portal jalan sudah ditutup pada malam
                         hari.
                     </p>
