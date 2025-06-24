@@ -13,7 +13,6 @@ Pogung memang dikenal sebagai kawasan yang aman dan nyaman untuk ditinggali, ter
 3. Font Awesome
 3. QGIS
 4. Dbeaver
-5. Postgres
 
 **Sumber Data**
 1. Google maps tampilan Daerah Pogung
