@@ -274,8 +274,8 @@
             onEachFeature: function(feature, layer) {
                 var popupContent = "No: " + feature.properties.name + "<br>" +
                     "Lokasi: " + feature.properties.description + "<br>"+
-                    // "Photo: <img src='{{ asset('storage/images/') }}/" + feature.properties.image +
-                    // "' class='img-thumbnail' alt='...'>" + "<br>" +
+                     "Photo: <img src='{{ asset('storage/images/') }}/" + feature.properties.image +
+                     "' class='img-thumbnail' alt='...'>" + "<br>" +
 
                     "<div class='d-flex flex-row'>" +
                     "<a href='{{ url('edit-point') }}/" + feature.properties.id +

@@ -214,15 +214,15 @@
             <div class="row">
                 <div class="align-items-center">
                     <div class="team-member text-center">
-                        <img class="mx-auto rounded-circle img-fluid" src="/storage/images/1750508666_polyline.png"
-                            alt="Trisna Diah Ayu Wulandari" style="width: 200px; height: 200px;" />
-                        <h4>Trisna Diah Ayu Wulandari</h4>
-                        <p class="text-muted">22/505883/SV/21979</p>
-                        <a class="btn btn-dark btn-social mx-2" href="https://x.com/trischies?s=20"
-                            aria-label="Trisna Twitter Profile">
+                        <img class="mx-auto rounded-circle img-fluid" src="/storage/images/Rezaa.png"
+                            alt="Reza Tristian Gilbran" style="width: 200px; height: 200px;" />
+                        <h4>Reza Tristian Gilbran</h4>
+                        <p class="text-muted">23/515309/SV/22520</p>
+                        <a class="btn btn-dark btn-social mx-2" href="https://x.com/mcflurrywberry?s=21"
+                            aria-label="Reza Twitter Profile">
                             <i class="fa-brands fa-x-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/ttrisnaaa/"
-                            aria-label="Trisna IG Profile">
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/renxicityx?igsh=MWx2bGc4MGt4ZTNrOA%3D%3D&utm_source=qr"
+                            aria-label="Reza IG Profile">
                             <i class="fa-brands fa-instagram fa-xl" style="color: #fcfcfc;"></i></a>
                     </div>
                 </div>
