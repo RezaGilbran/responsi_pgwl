@@ -155,7 +155,7 @@
         L.Control.Watermark = L.Control.extend({
             onAdd: function(map) {
                 var img2 = L.DomUtil.create("img");
-                img2.src = "storage/images/LOGO_SIG_BLUE.png";
+                img2.src = "{{ asset('storage/images/Sig.png') }}";
                 img2.style.width = "150px";
                 return img2;
             },
